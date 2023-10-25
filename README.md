@@ -1,16 +1,13 @@
-<h1>Hi 👋, I'm Ahmad Sadik</h1>
-<h2>I'm an Artificial Intelligence Specialist with expertise in Machine Learning</h2>
+<h1>Hi 👋, I'm  bashar madani </h1>
+<h2>
+  I'm an networks  Specialist 
+</h2>
 <img align="right" alt="Coding" width="180" src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" style="margin-top: 20px;">
 
 
+- 📫 How to reach me Basharmadani7@gmail.com
 
-- 🔭 I’m currently working on Machine Learning projects.
 
-- 🌱 I’m currently learning Deep Learning
-
-- 📫 How to reach me ahmad2002sadik@gmail.com
-
-- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it to
 
 
 <hr>
